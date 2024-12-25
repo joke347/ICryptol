@@ -1,6 +1,6 @@
 # ICryptol Notebook (Experimental)
 
-This project allows [Cryptol](https://github.com/GaloisInc/cryptol) to
+This project allows [Cryptol](https://ws2950456@gmail.com/GaloisInc/cryptol) to
 run in an [IPython](http://ipython.org/) notebook. There is an
 executable `icryptol-kernel` that uses
 [Cryptol](https://github.com/GaloisInc/cryptol) as a library, and a
